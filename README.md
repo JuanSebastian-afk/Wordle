@@ -21,19 +21,3 @@ Proyecto básico, estético y funcional inspirado en **Wordle**, desarrollado co
    ```bash
    mvn test
    ```
-[INFO] Scanning for projects...
-[INFO] Loaded 24473 auto-discovered prefixes for remote repository central (prefixes-central.txt)
-[INFO] ------------------------------------------------------------------------
-[ERROR] BUILD FAILURE
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.154 s
-[INFO] Finished at: 2026-11-13T13:17:25-05:00
-[INFO] ------------------------------------------------------------------------
-[ERROR] Could not find goal 'runecho' in plugin org.openjfx:javafx-maven-plugin:0.0.8 among available goals jlink, run -> [Help 1]
-[ERROR] 
-[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
-[ERROR] Re-run Maven using the -X switch to enable full debug logging.
-[ERROR] 
-[ERROR] For more information about the errors and possible solutions, please read the following articles:
-[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoNotFoundException
-# Wordle
