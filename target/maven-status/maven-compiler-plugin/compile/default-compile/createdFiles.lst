@@ -1,0 +1,8 @@
+com/wordle/ui/TableroView.class
+com/wordle/model/EstadoLetra.class
+com/wordle/Launcher.class
+com/wordle/service/JuegoService.class
+com/wordle/service/DiccionarioService.class
+com/wordle/ui/TableroView$1.class
+com/wordle/model/ResultadoIntento.class
+com/wordle/WordleApp.class
